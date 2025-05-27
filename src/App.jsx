@@ -1,10 +1,17 @@
 import { useState } from 'react'
+import {Button} from "@/components/ui/button"
 
 function App() {
 
   return (
     <>
-      <div>news-blog-app</div>
+    <div>
+      Blog--News App
+    </div>
+
+      <div>
+        
+      </div>
     </>
   )
 }
